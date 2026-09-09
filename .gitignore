@@ -1,0 +1,19 @@
+# 원자료와 가이드북
+data/
+dataset/
+*.csv
+*.zip
+04. Guidebook_Molding.pdf
+
+# 실행 환경과 임시 기록
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+work/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
