@@ -211,5 +211,3 @@ Python 3.12.14, numpy 2.5.3, pandas 3.0.5, scikit-learn 1.9.0, matplotlib 3.11.1
 중소벤처기업부, Korea AI Manufacturing Platform(KAMP), 사출성형기 AI 데이터셋, KAIST(울산과학기술원, ㈜이피엠솔루션즈), 2020.12.14., https://www.kamp-ai.kr/
 
 KAMP 제공 분석 자료의 변수·Y/N 라벨 정의와 출처 양식을 따른다. 연구/공식 활용 시 출처와 활용 내용·문서 이메일(kamp@kaist.ac.kr) 안내가 있다. 이메일을 발송하지 않았다. 원본 데이터와 제공 문서는 포함하지 않았다.
-
-추가 원본 SHA-256: `a2a653b34833a8a01699e6e63d5d280a0c3aa82a38004c8af6be132e374aa8f3`. 원본 기반 준지도 노트북의 제품별 AP/ROC-AUC/F1을 저장 예측에서 재계산하고 모든 방법이 동일한 평가 ID 1,000건을 사용하는지 확인했다.
